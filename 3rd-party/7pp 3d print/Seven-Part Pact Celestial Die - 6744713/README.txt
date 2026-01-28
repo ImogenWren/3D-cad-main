@@ -1,0 +1,4 @@
+Seven-Part Pact Celestial Die by cassvic on Thingiverse: https://www.thingiverse.com/thing:6744713
+
+Summary:
+These are the celestial die for Possum Creek Game's The Seven-Part Pact!They're designed for version 3.24.8 (August 2024).With Salt vs No Salt?One of the symbols on the celestial die is salt, which is a bit of a wild card. Each die featuring salt has two versions here, one with the salt symbol, and one where that face is blank, to be used as a flat base for easier printing, resin casting, etc.Basically, if your prints of die with the salt symbol are failing, try the die without it!The Seven-Part Pact can be found on the Possum Creek Games patreon.The font used is Newton Sans, which is released under the Open Font License.
