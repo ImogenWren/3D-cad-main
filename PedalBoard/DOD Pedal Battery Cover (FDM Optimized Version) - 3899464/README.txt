@@ -1,0 +1,4 @@
+DOD Pedal Battery Cover (FDM Optimized Version) by NTX9 on Thingiverse: https://www.thingiverse.com/thing:3899464
+
+Summary:
+Replacement battery door for vintage DOD guitar pedals. These pedals show up on Ebay all the time without battery covers. I designed this model and posted it on Shapeways for purchase a few years ago.  But that particular model was not really designed for FDM Printing.This design is optimized the design for FDM printing. I strongly recommend PETG as PLA tends to get brittle over time.If you are interested in a design that is more consistent with the original please follow this link.  https://www.thingiverse.com/thing:2444902Also, if you do not have a 3d Printer or want a SLS plastic version you can purchase on Shapeways.https://www.shapeways.com/product/DRMJDEUSQ/dod-effects-pedal-battery-cover?optionId=43872045
